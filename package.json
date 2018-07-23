@@ -1,5 +1,5 @@
 {
-  "name": "easy-cli",
+  "name": "hxx-easy-cli",
   "version": "1.0.0",
   "description": "个性化的脚手架工具",
   "main": "index.js",
@@ -16,5 +16,13 @@
   },
   "bin": {
     "easyCli": "./bin/index.js"
+  },
+  "keywords": [
+    "cli",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huangxinxia/hxx-easy-cli"
   }
 }
