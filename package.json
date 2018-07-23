@@ -1,0 +1,20 @@
+{
+  "name": "easy-cli",
+  "version": "1.0.0",
+  "description": "个性化的脚手架工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.11",
+    "hxx-easy-git": "^1.0.1",
+    "inquirer": "^6.0.0",
+    "yargs": "^12.0.1"
+  },
+  "bin": {
+    "easyCli": "./bin/index.js"
+  }
+}
